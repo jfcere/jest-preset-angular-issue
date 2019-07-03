@@ -2,6 +2,8 @@
 
 Reproduction repository for Jest-Preset-Angular issue using newly generated Angular 8 application.
 
+> Related [jest-preset-angular/issues#288](https://github.com/thymikee/jest-preset-angular/issues/288)
+
 ## Issue
 
 Using **Jest-Preset-Angular**, tests fail to retrieve the dependencies injected in a component constructor resulting in the following error:
